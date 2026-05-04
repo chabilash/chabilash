@@ -36,7 +36,7 @@
 
 💼 **13+**
 
-🔭 Currently working on **[chabilash](https://github.com/chabilash/My_Agentic_AI)**
+🔭 Currently working on **[My_Agentic_AI](https://github.com/chabilash/My_Agentic_AI)**
 
 🌱 Currently learning **AI-Agents, LLM, AI-ML**
 
