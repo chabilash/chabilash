@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/chabilash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Passionate%20Self%20Taught%20AI%20QA%20Automation%20Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Passionate%20Self%20Taught%20AI%20QE%20Automation%20Engineer" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -286,6 +286,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
 
-**⭐ From [chabilash](https://github.com/chabilash) with ❤️**
+**⭐ From [Abilash Chintalacheruvula](https://github.com/chabilash) with ❤️**
 
 </div>
